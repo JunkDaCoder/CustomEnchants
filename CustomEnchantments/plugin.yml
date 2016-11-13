@@ -1,0 +1,4 @@
+name: CustomEnchantments
+author: Junkdude
+main: CustomEnchantments\Main
+api: [1.13.1, 2.0.0]

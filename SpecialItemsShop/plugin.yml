@@ -1,0 +1,9 @@
+name: SpecialItemsShop
+author: Junkdude
+main: Junkdude\Main
+api: [1.13.1, 2.0.0]
+commands:
+ buy_zaroc:
+  description: buy the zaroc sword!
+ buy_snakes_blade:
+  description: buy the snakes blade sword!
